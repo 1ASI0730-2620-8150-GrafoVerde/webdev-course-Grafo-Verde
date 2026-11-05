@@ -34,7 +34,7 @@ general de HTML y CSS.
 [Ver Lección 1 en YouTube](URL-DEL-VIDEO)
 
 **Práctica:**  
-[Abrir ejemplo en CodePen](URL-DE-CODEPEN)
+[Abrir ejemplo en CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)
 
 **Código fuente:**
 
