@@ -31,7 +31,7 @@ general de HTML y CSS.
 - Navegador web.
 
 **Video:**  
-[Ver Lección 1 en YouTube](URL-DEL-VIDEO)
+[Ver Lección 1 en YouTube](https://youtu.be/IHamoMENPzw)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)
