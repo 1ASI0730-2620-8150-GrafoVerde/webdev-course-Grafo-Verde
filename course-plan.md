@@ -73,6 +73,9 @@ y enlaces mientras construye una página de ejemplo.
 - Listas.
 - Enlaces.
 
+**Video:**  
+[Ver Lección 3 en YouTube](https://youtu.be/FOuquPpwmRQ)
+
 **Código fuente:**
 
 - [Starter Files](starter-files/lesson-03)
