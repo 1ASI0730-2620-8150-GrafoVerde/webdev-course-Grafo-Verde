@@ -116,9 +116,43 @@ y enlaces mientras construye una página de ejemplo.
 **Consejo clave:**  
 Cada elemento cumple una función: un encabezado se elige por su lugar en el contenido, no por su tamaño.
 
-### Lección 4: Introducción a CSS
+### Lección 4: Estilo simple con CSS
 
-Responsable: [Nombre]
+**Descripción:**  
+Primeros pasos para dar estilo a una página con CSS.
+El estudiante aprenderá a cambiar colores, agregar bordes, centrar contenido
+y convertir un enlace en un botón mientras transforma una página sencilla.
+
+**Objetivos de aprendizaje:**
+
+- Cambiar el color de fondo de una página.
+- Cambiar el color del texto.
+- Centrar contenido utilizando CSS sencillo.
+- Agregar bordes a un elemento.
+- Aplicar esquinas redondeadas.
+- Combinar varias propiedades CSS para mejorar visualmente una página web.
+
+**Conceptos clave:**
+
+- `background-color` y `color`.
+- `padding`.
+- `border` y `border-radius`.
+- `max-width` y `margin`.
+- `text-align`.
+
+**Video:**  
+[Ver Lección 4 en YouTube](https://youtu.be/8rKR8fM-VU4)
+
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)
+
+**Código fuente:**
+
+- [Starter Files](starter-files/lesson-04)
+- [Completed Example](completed-examples/lesson-04)
+
+**Consejo clave:**  
+`margin: auto` centra la tarjeta y `text-align: center` centra el contenido que está dentro de ella.
 
 ### Lección 5: Creación de una página web
 
