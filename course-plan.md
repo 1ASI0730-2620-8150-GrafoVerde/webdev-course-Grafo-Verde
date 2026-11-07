@@ -85,7 +85,42 @@ Cada etiqueta que abre también debe cerrar.
 
 ### Lección 3: Elementos HTML comunes
 
-Responsable: [Nombre]
+Responsable: José Antonio Santana Luna
+
+**Descripción:**  
+Uso de los elementos que dan contenido a una página web.
+El estudiante aprenderá a usar encabezados, párrafos, imágenes, listas
+y enlaces mientras construye una página de ejemplo.
+
+**Objetivos de aprendizaje:**
+
+- Usar encabezados según su lugar en el contenido.
+- Escribir párrafos y marcar texto importante.
+- Agregar imágenes con los atributos `src` y `alt`.
+- Diferenciar listas sin orden y listas ordenadas.
+- Crear enlaces con texto descriptivo.
+
+**Conceptos clave:**
+
+- Encabezados.
+- Párrafos.
+- Imágenes.
+- Listas.
+- Enlaces.
+
+**Video:**  
+[Ver Lección 3 en YouTube](https://youtu.be/FOuquPpwmRQ)
+
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)
+
+**Código fuente:**
+
+- [Starter Files](starter-files/lesson-03)
+- [Completed Example](completed-examples/lesson-03)
+
+**Consejo clave:**  
+Cada elemento cumple una función: un encabezado se elige por su lugar en el contenido, no por su tamaño.
 
 ### Lección 4: Introducción a CSS
 
