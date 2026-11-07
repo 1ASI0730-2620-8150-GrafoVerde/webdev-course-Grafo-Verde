@@ -143,6 +143,9 @@ y convertir un enlace en un botón mientras transforma una página sencilla.
 **Video:**  
 [Ver Lección 4 en YouTube](https://youtu.be/8rKR8fM-VU4)
 
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)
+
 **Código fuente:**
 
 - [Starter Files](starter-files/lesson-04)
