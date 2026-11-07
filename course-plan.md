@@ -72,6 +72,9 @@ y construirá la estructura básica de una página.
 **Video:**  
 [Ver Lección 2 en YouTube](https://youtu.be/_V6dCxTIdBA)
 
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)
+
 **Código fuente:**
 
 - [Starter Files](starter-files/lesson-02)
