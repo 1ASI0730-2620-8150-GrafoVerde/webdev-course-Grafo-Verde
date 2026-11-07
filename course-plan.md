@@ -76,6 +76,9 @@ y enlaces mientras construye una página de ejemplo.
 **Video:**  
 [Ver Lección 3 en YouTube](https://youtu.be/FOuquPpwmRQ)
 
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)
+
 **Código fuente:**
 
 - [Starter Files](starter-files/lesson-03)
