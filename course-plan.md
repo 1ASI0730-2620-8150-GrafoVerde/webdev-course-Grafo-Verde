@@ -140,6 +140,9 @@ y convertir un enlace en un botón mientras transforma una página sencilla.
 - `max-width` y `margin`.
 - `text-align`.
 
+**Video:**  
+[Ver Lección 4 en YouTube](https://youtu.be/8rKR8fM-VU4)
+
 **Código fuente:**
 
 - [Starter Files](starter-files/lesson-04)
