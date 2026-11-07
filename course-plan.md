@@ -9,8 +9,6 @@ de secundaria sin experiencia previa en programación.
 
 ### Lección 1: ¿Qué es el desarrollo web?
 
-Responsable: Juan Diego Flores Rios
-
 **Descripción:**  
 Introducción a los conceptos fundamentales del desarrollo web.
 El estudiante conocerá qué es una página web y comprenderá el propósito
@@ -45,8 +43,6 @@ general de HTML y CSS.
 HTML organiza el contenido de una página web y CSS modifica su apariencia.
 
 ### Lección 2: Introducción a HTML
-
-Responsable: José Antonio Santana Luna
 
 **Descripción:**  
 Introducción a la estructura de una página web con HTML.
@@ -84,8 +80,6 @@ y construirá la estructura básica de una página.
 Cada etiqueta que abre también debe cerrar.
 
 ### Lección 3: Elementos HTML comunes
-
-Responsable: José Antonio Santana Luna
 
 **Descripción:**  
 Uso de los elementos que dan contenido a una página web.
