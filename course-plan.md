@@ -69,6 +69,9 @@ y construirá la estructura básica de una página.
 - Estructura de una página.
 - Indentación.
 
+**Video:**  
+[Ver Lección 2 en YouTube](https://youtu.be/_V6dCxTIdBA)
+
 **Código fuente:**
 
 - [Starter Files](starter-files/lesson-02)
