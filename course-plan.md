@@ -46,7 +46,42 @@ HTML organiza el contenido de una página web y CSS modifica su apariencia.
 
 ### Lección 2: Introducción a HTML
 
-Responsable: [Nombre]
+Responsable: José Antonio Santana Luna
+
+**Descripción:**  
+Introducción a la estructura de una página web con HTML.
+El estudiante conocerá qué son las etiquetas, los elementos y los atributos,
+y construirá la estructura básica de una página.
+
+**Objetivos de aprendizaje:**
+
+- Identificar etiquetas de apertura y de cierre.
+- Diferenciar etiqueta, contenido y elemento.
+- Escribir atributos con su nombre y su valor.
+- Construir la estructura básica de una página web.
+- Reconocer los errores más comunes al empezar.
+
+**Conceptos clave:**
+
+- Etiqueta.
+- Elemento.
+- Atributo.
+- Estructura de una página.
+- Indentación.
+
+**Video:**  
+[Ver Lección 2 en YouTube](https://youtu.be/_V6dCxTIdBA)
+
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)
+
+**Código fuente:**
+
+- [Starter Files](starter-files/lesson-02)
+- [Completed Example](completed-examples/lesson-02)
+
+**Consejo clave:**  
+Cada etiqueta que abre también debe cerrar.
 
 ### Lección 3: Elementos HTML comunes
 
