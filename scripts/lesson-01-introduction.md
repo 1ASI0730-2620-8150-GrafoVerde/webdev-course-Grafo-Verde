@@ -2,7 +2,7 @@
 
 ## Información
 
-- **Duración estimada:** 5-6 minutos
+- **Duración estimada:** 6 minutos (5:50)
 - **Público objetivo:** Estudiantes de 12 a 17 años
 - **Nivel:** Principiante
 - **Prerrequisitos:** Ninguno
@@ -18,6 +18,12 @@ Al finalizar esta lección, el estudiante podrá:
 - Diferenciar entre contenido y apariencia.
 - Identificar qué aprenderá durante el resto del curso.
 
+## Notas de producción
+
+- CodePen aparece en pantalla durante todo el video. Los recuadros, resaltados y zooms se agregan en la edición, encima de CodePen.
+- En el panel HTML de CodePen va el contenido de `<body>` del ejemplo terminado. CodePen aplica el CSS automáticamente, así que no se necesita la etiqueta `<link>`.
+- El video no lleva música. Solo tiene sonido de teclado cuando se escribe o se pega código.
+
 ---
 
 # Guion
@@ -26,21 +32,23 @@ Al finalizar esta lección, el estudiante podrá:
 
 **Duración aproximada:** 0:00 - 0:30
 
-**En pantalla:** Mostrar durante unos segundos la página web final que se construirá durante el curso.
+**En pantalla:** CodePen con el proyecto final cargado (`completed-examples/lesson-01`). Recuadro con el título de la lección y resaltado de los paneles HTML y CSS.
 
 ### Narración
 
-Hola. Bienvenido a este curso de introducción al desarrollo web.
+Hola. Bienvenido al curso de introducción al desarrollo web.
 
-Durante las próximas lecciones aprenderás cómo se construye una página web desde cero utilizando HTML y CSS.
+Aprenderás a construir una página web desde cero con **HTML** y **CSS**.
 
-Y lo mejor es que no necesitas instalar ningún programa. Todo lo que vamos a utilizar funcionará directamente desde tu navegador.
+**En pantalla:** Etiqueta "Sin instalar nada · todo en el navegador".
 
-**En pantalla:** Mostrar brevemente el proyecto final.
+Y no necesitas instalar nada: todo funciona desde tu navegador.
 
-Al terminar el curso serás capaz de crear una página sencilla como esta, donde podrás colocar información, imágenes, enlaces, colores y diferentes estilos.
+**En pantalla:** Zoom a la tarjeta de perfil en el resultado.
 
-Pero antes de comenzar a escribir código, necesitamos responder una pregunta importante:
+Al final del curso podrás crear una página como esta, con información, enlaces y colores.
+
+Pero primero, una pregunta:
 
 **¿Qué es realmente una página web?**
 
@@ -50,7 +58,7 @@ Pero antes de comenzar a escribir código, necesitamos responder una pregunta im
 
 **Duración aproximada:** 0:30 - 1:30
 
-**En pantalla:** Mostrar ejemplos visuales de diferentes tipos de sitios web.
+**En pantalla:** CodePen vacío con el recuadro "Todos los días usamos páginas web" y seis usos: buscar, ver videos, noticias, estudiar, jugar y comunicarnos.
 
 ### Narración
 
@@ -58,13 +66,28 @@ Todos los días utilizamos páginas web.
 
 Las usamos para buscar información, ver videos, leer noticias, estudiar, jugar o comunicarnos con otras personas.
 
-Aunque cada página puede verse completamente diferente, todas necesitan instrucciones que le indiquen al navegador qué contenido mostrar y cómo debe verse.
+**En pantalla:** Zoom al panel HTML con el recuadro "1 · Instrucciones". Escribir:
 
-Cuando ingresamos a una página web utilizando un navegador como Chrome, Firefox, Safari o Edge, el navegador interpreta esas instrucciones y las convierte en todo lo que vemos en pantalla.
+```html
+<h1>Mi página</h1>
+<p>Un texto cualquiera.</p>
+<button>Un botón</button>
+<a href="#">Un enlace</a>
+```
 
-Textos, imágenes, botones, enlaces, colores y muchas otras cosas.
+Aunque cada página se ve diferente, todas necesitan **instrucciones** que le dicen al navegador qué mostrar y cómo debe verse.
 
-Y para comenzar a crear esas páginas, aprenderemos dos tecnologías fundamentales:
+**En pantalla:** Recuadros "2 · El navegador las interpreta" y "3 · Lo que vemos en pantalla" sobre el resultado.
+
+Cuando entramos a una página con Chrome, Firefox, Safari o Edge, el navegador lee esas instrucciones y las convierte en lo que vemos en pantalla.
+
+**En pantalla:** Zoom al resultado. Señalar el título, el texto, el botón y el enlace.
+
+Textos, imágenes, botones, enlaces, colores y mucho más.
+
+**En pantalla:** Recuadro "HTML + CSS · Dos tecnologías fundamentales" con los dos paneles resaltados.
+
+Para crear esas páginas aprenderemos dos tecnologías fundamentales:
 
 **HTML y CSS.**
 
@@ -74,7 +97,7 @@ Y para comenzar a crear esas páginas, aprenderemos dos tecnologías fundamental
 
 **Duración aproximada:** 1:30 - 2:40
 
-**En pantalla:** Mostrar el texto:
+**En pantalla:** CodePen con el HTML del proyecto y el panel CSS vacío. Zoom al panel HTML y recuadro:
 
 > HTML = contenido y estructura
 
@@ -82,35 +105,31 @@ Y para comenzar a crear esas páginas, aprenderemos dos tecnologías fundamental
 
 Primero tenemos **HTML**.
 
-HTML se utiliza para organizar el contenido de una página web.
+**En pantalla:** Resaltar `<h1>` (título), `<p>` (párrafo) y `<a>` (enlace).
 
-Por ejemplo, podemos indicar que algo es un título, un párrafo, una imagen, una lista o un enlace.
+HTML sirve para organizar el contenido de una página: indicar que algo es un título, un párrafo, una imagen, una lista o un enlace.
 
 Podemos imaginar HTML como la estructura de nuestra página.
 
-**En pantalla:** Mostrar una página sencilla sin estilos.
+**En pantalla:** Zoom al resultado sin estilos: "Solo HTML: hay contenido, pero se ve sencillo".
 
-Esta página ya tiene contenido.
+Esta página ya tiene contenido: un título, un poco de texto y un enlace.
 
-Tenemos un título, un pequeño texto y algunos elementos.
+Pero todavía se ve muy sencilla.
 
-Pero todavía se ve bastante sencilla.
+Aquí aparece nuestra segunda herramienta.
 
-Aquí es donde aparece nuestra segunda herramienta.
-
-**En pantalla:** Mostrar el texto:
+**En pantalla:** Resaltar el panel CSS y mostrar el recuadro:
 
 > CSS = estilo y apariencia
 
-CSS se utiliza para modificar la apariencia de la página.
+CSS sirve para cambiar la apariencia: colores, fuentes, tamaños, bordes y cómo se ordenan los elementos.
 
-Con CSS podemos cambiar colores, fuentes, tamaños, bordes y la forma en la que se organizan diferentes elementos.
+**En pantalla:** Pegar `style.css` regla por regla (`body`, `.profile-card`, `h1`, `p`, `a`) mientras el resultado cambia. Después, zoom al resultado: "Mismo contenido, otra apariencia".
 
-**En pantalla:** Aplicar CSS y mostrar el cambio visual.
+El contenido es el mismo, pero ahora la página se ve completamente diferente.
 
-El contenido sigue siendo prácticamente el mismo, pero ahora la página tiene una apariencia diferente.
-
-Por eso podemos recordar una idea muy sencilla:
+Recuerda esta idea:
 
 **HTML organiza el contenido.**
 
@@ -122,23 +141,30 @@ Por eso podemos recordar una idea muy sencilla:
 
 **Duración aproximada:** 2:40 - 3:30
 
-**En pantalla:** Volver a mostrar la página final del curso.
+**En pantalla:** Zoom al proyecto final con el recuadro "Lo que construiremos".
 
 ### Narración
 
-Durante este curso construiremos una página web sencilla paso a paso.
+Durante este curso construiremos una página web sencilla, paso a paso.
 
-No intentaremos hacer todo inmediatamente.
+No haremos todo de golpe.
 
-Primero aprenderemos cómo funciona HTML y cómo crear la estructura básica de una página.
+**En pantalla:** CodePen vacío. Construir la página pegando bloques de código mientras se marca la lista "Paso a paso":
 
-Después agregaremos elementos como títulos, párrafos, imágenes, listas y enlaces.
+1. Estructura HTML: `<main class="profile-card">` con el `<h1>`.
+2. Textos y enlaces: los párrafos y el enlace.
+3. Estilos con CSS: `body`, `h1` y `p`.
+4. Página completa: `.profile-card` y `a`.
 
-Luego aprenderemos CSS para cambiar colores, fuentes y otros aspectos visuales.
+Primero aprenderemos cómo funciona HTML y la estructura básica de una página.
 
-Finalmente combinaremos todo lo aprendido para completar nuestra página.
+Después agregaremos títulos, párrafos, imágenes, listas y enlaces.
 
-Así podrás observar cómo una página muy sencilla va evolucionando poco a poco.
+Luego usaremos CSS para cambiar colores, fuentes y otros detalles visuales.
+
+Y al final uniremos todo para completar nuestra página.
+
+Así verás cómo una página muy simple va mejorando poco a poco.
 
 ---
 
@@ -146,19 +172,15 @@ Así podrás observar cómo una página muy sencilla va evolucionando poco a poc
 
 **Duración aproximada:** 3:30 - 4:45
 
-**En pantalla:** Abrir CodePen con un ejemplo sencillo.
+**En pantalla:** CodePen vacío con los pasos "1 · Escribir HTML", "2 · Cambiar el título" y "3 · Agregar CSS".
 
 ### Narración
 
-Para escribir nuestro código utilizaremos herramientas que funcionan directamente desde Internet.
+Para escribir código usaremos **CodePen**, un editor que funciona directamente en Internet.
 
-Por ejemplo, aquí tenemos un editor online.
+No hace falta descargar ni instalar nada. Hagamos una prueba rápida.
 
-No necesitamos descargar ni instalar nada.
-
-Vamos a hacer una prueba rápida.
-
-**En pantalla:** Mostrar el siguiente código:
+**En pantalla:** Zoom al panel HTML y escribir:
 
 ```html
 <h1>Mi primera página web</h1>
@@ -166,35 +188,25 @@ Vamos a hacer una prueba rápida.
 <p>Estoy aprendiendo desarrollo web.</p>
 ```
 
-No te preocupes si todavía no entiendes qué significan estos símbolos.
+No te preocupes si aún no entiendes estos símbolos: eso es justo lo que aprenderemos en las próximas lecciones.
 
-Eso es exactamente lo que aprenderemos durante las siguientes lecciones.
+Por ahora, solo observa lo que pasa.
 
-Por ahora, solamente observa lo que sucede.
-
-**En pantalla:** Cambiar:
-
-```html
-<h1>Mi primera página web</h1>
-```
-
-por:
+**En pantalla:** Zoom a la línea del título. Seleccionar `Mi primera página web` y escribir en su lugar `Bienvenido a mi página`:
 
 ```html
 <h1>Bienvenido a mi página</h1>
 ```
 
-### Narración
+Si cambiamos este texto...
 
-Cuando modificamos este texto...
+**En pantalla:** Zoom al resultado con el recuadro "El texto cambió".
 
-**En pantalla:** Mostrar el cambio en el resultado.
+...también cambia lo que aparece en la página.
 
-...también cambia lo que aparece en nuestra página.
+Ahora otro pequeño cambio.
 
-Ahora hagamos otro pequeño cambio.
-
-**En pantalla:** Mostrar CSS sencillo.
+**En pantalla:** Zoom al panel CSS y escribir:
 
 ```css
 h1 {
@@ -202,17 +214,13 @@ h1 {
 }
 ```
 
-### Narración
+Con CSS también podemos cambiar la apariencia del título. Por ejemplo, su color.
 
-También podemos cambiar la apariencia del título utilizando CSS.
+**En pantalla:** Zoom al resultado con el recuadro "El color cambió".
 
-Por ejemplo, podemos cambiar su color.
+Con cambios muy pequeños ya controlamos qué aparece en la página y cómo se ve.
 
-**En pantalla:** Modificar el color y mostrar el resultado.
-
-Con cambios bastante pequeños ya podemos comenzar a controlar lo que aparece en nuestra página y cómo se ve.
-
-Y conforme avancemos, entenderás exactamente qué significa cada una de estas instrucciones.
+Y poco a poco entenderás qué significa cada instrucción.
 
 ---
 
@@ -220,7 +228,7 @@ Y conforme avancemos, entenderás exactamente qué significa cada una de estas i
 
 **Duración aproximada:** 4:45 - 5:25
 
-**En pantalla:** Mostrar una lista animada con cada punto apareciendo progresivamente.
+**En pantalla:** Proyecto final de fondo y un recuadro con dos columnas, HTML y CSS, donde cada punto aparece a medida que se nombra.
 
 ### Narración
 
@@ -233,7 +241,9 @@ A lo largo del curso aprenderás:
 - Cómo cambiar colores, fuentes y otros estilos.
 - Cómo combinar todo para crear una página web sencilla.
 
-También veremos algunos errores comunes que suelen aparecer cuando comenzamos a programar y cómo podemos solucionarlos.
+**En pantalla:** "+ Errores comunes y cómo solucionarlos".
+
+Y también veremos errores comunes al empezar a programar y cómo solucionarlos.
 
 ---
 
@@ -241,21 +251,23 @@ También veremos algunos errores comunes que suelen aparecer cuando comenzamos a
 
 **Duración aproximada:** 5:25 - 5:50
 
-**En pantalla:** Mostrar el proyecto final y posteriormente el texto:
-
-> Siguiente lección: Introducción a HTML
+**En pantalla:** Zoom lento al proyecto final con el recuadro "Paso a paso".
 
 ### Narración
 
-Crear una página web puede parecer complicado cuando vemos todo el código junto.
+Crear una página web puede parecer difícil cuando ves todo el código junto.
 
-Pero no necesitamos aprenderlo todo de una sola vez.
+Pero no hace falta aprenderlo de una vez.
 
-Vamos a construir nuestra página paso a paso.
+Iremos paso a paso.
 
-Ahora que sabemos qué es una página web y conocemos el propósito general de HTML y CSS, estamos listos para comenzar.
+Ya sabes qué es una página web y para qué sirven HTML y CSS.
 
-En la siguiente lección aprenderemos **HTML** y crearemos la estructura de nuestra primera página web.
+**En pantalla:** Mostrar el texto:
+
+> Siguiente lección: Introducción a HTML
+
+En la siguiente lección empezaremos con **HTML**.
 
 ¡Comencemos!
 
@@ -267,7 +279,8 @@ En la siguiente lección aprenderemos **HTML** y crearemos la estructura de nues
 - CodePen.
 - HTML.
 - CSS.
-- Ejemplo de página web del curso.
+- Ejemplo de página web del curso (`completed-examples/lesson-01`).
+- Sonido de teclado: *Keyboard Soundpack 1* de Unicae Games en OpenGameArt, licencia CC0.
 
 ## Conceptos clave
 
