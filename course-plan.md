@@ -12,27 +12,32 @@ de secundaria sin experiencia previa en programación.
 **Descripción:**  
 Introducción a los conceptos fundamentales del desarrollo web.
 El estudiante conocerá qué es una página web y comprenderá el propósito
-general de HTML y CSS.
+general de HTML y CSS. Todo el video transcurre en CodePen: se ve la misma
+página primero solo con HTML y luego con CSS, se construye el proyecto
+del curso paso a paso y se hace una primera prueba cambiando un título y su color.
 
 **Objetivos de aprendizaje:**
 
 - Comprender qué es una página web.
 - Reconocer HTML como responsable del contenido y estructura.
 - Reconocer CSS como responsable de la apariencia.
+- Diferenciar entre contenido y apariencia.
 - Conocer el proyecto que se desarrollará durante el curso.
 
 **Conceptos clave:**
 
 - Desarrollo web.
+- Página web.
+- Navegador web.
 - HTML.
 - CSS.
-- Navegador web.
+- Contenido, estructura y apariencia.
 
 **Video:**  
-[Ver Lección 1 en YouTube](https://youtu.be/IHamoMENPzw)
+[Ver Lección 1 en YouTube](LINK-DEL-NUEVO-VIDEO-DE-LECCIÓN-1)
 
 **Práctica:**  
-[Abrir ejemplo en CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)
+[Abrir ejemplo en CodePen](LINK-DEL-NUEVO-EJEMPLO-DE-LECCIÓN-1)
 
 **Código fuente:**
 
