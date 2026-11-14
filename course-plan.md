@@ -71,7 +71,7 @@ y construirá la estructura básica de una página.
 - Indentación.
 
 **Video:**  
-[Ver Lección 2 en YouTube](https://youtu.be/_V6dCxTIdBA)
+[Ver Lección 2 en YouTube](https://youtu.be/gkgVkcaCWII)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)
@@ -108,7 +108,7 @@ y enlaces mientras construye una página de ejemplo.
 - Enlaces.
 
 **Video:**  
-[Ver Lección 3 en YouTube](https://youtu.be/FOuquPpwmRQ)
+[Ver Lección 3 en YouTube](https://youtu.be/nFK3d8pUpFE)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)
