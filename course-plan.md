@@ -195,14 +195,75 @@ Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estil
 
 ### Lección 6: Consejos y próximos pasos
 
-Responsable: [Nombre]
+**Descripción**: Errores comunes, buenas prácticas y recursos para seguir aprendiendo.
+
+**Video:**  
+  [Ver Lección 6 en YouTube]()
+
+**Práctica:**  
+  [Abrir ejemplo en CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)
+
+**Código fuente:**
+
+- [Starter Files](starter-files/lesson-05)
+
+- [Completed Example](completed-examples/lesson-05)
+
+📚 Para seguir aprendiendo (gratis):
+- MDN Web Docs en español: https://developer.mozilla.org/es/
+
+- Validador de HTML del W3C: https://validator.w3.org/
+
+- CodePen: https://codepen.io/
+
+✅ Lista de revisión cuando algo no funciona:
+1. ¿Qué fue lo último que cambié? (Ctrl/Cmd + Z para deshacer)
+2. ¿Cerré todas las etiquetas?
+3. ¿Escribí bien los atributos y las propiedades?
+4. ¿Puse el punto antes del nombre de la clase?
+5. ¿Cada propiedad termina con ; y cada regla con } ?
+**Conclusiones clave**: Escribe un codigo ordenado, deja notas con comentarios, usar nombres claros y el habito de cazar errores.
+
 
 ## Recursos adicionales
 
-Pendiente.
+- **Código Fuente Completo**: [Repositorio de GitHub] (https://github.com/1ASI0730-2620-8150-GrafoVerde/webdev-course-Grafo-Verde.git)
+- **Todas las Actividades Prácticas**:
+- 
+  | Lección # | Actividad | Empezar a Programar                                                                             |
+  |-----------|----------|-------------------------------------------------------------------------------------------------|
+  | 1         | Lección 1: ¿Qué es el desarrollo web? | [CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)        |
+  | 2         | Lección 2: Introducción a HTML| [CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)                                            |
+  | 3         | Lección 3: Elementos HTML comunes | [CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)                                            |
+  | 4         | Lección 4: Estilo simple con CSS | [CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)       |
+  | 5         | Lección 5: Creación de una página web| [CodePen](https://codepen.io/editor/Matheus-Schenider/pen/01a1d6c0-19e3-7f15-ba49-f71ef174b9ab) |
+- | 6         | Lección 6: Consejos y próximos pasos | [CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)                                                                                     |
+## 👥 Elaboración
 
-## Elaboración
+**Universidad Peruana de Ciencias Aplicadas**  
+Carrera de Ingeniería de Software · Período 202620  
+1ASI0729 Aplicaciones Web · NRC 8150
 
-- Equipo:
-- Líder:
-- Integrantes:
+| |               |
+|---|---------------|
+| 🏷️ **Equipo** | Grafo Verde   |
+| 👑 **Líder** | Mateo Urviola |
+| 📅 **Fecha de entrega** | 10/11/2026    |
+
+**Integrantes:**
+
+| Integrante    | Rol |
+|---------------|---|
+| Mateo Urviola | Líder de equipo |
+| José Santana  | Integrante |
+| Darnel Cuba   | Integrante |
+| Juan Flores   | Integrante |
+| Joaquín Cuba  | Integrante |
+
+---
+
+<div align="center">
+
+¡Gracias por completar el curso! · #WebDevBeginners
+
+</div>
