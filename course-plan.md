@@ -121,7 +121,7 @@ y enlaces mientras construye una página de ejemplo.
 **Consejo clave:**  
 Cada elemento cumple una función: un encabezado se elige por su lugar en el contenido, no por su tamaño.
 
-### Lección 4: Estilo simple con CSS
+### Lección 4: Introducción a CSS y estilo simple
 
 **Descripción:**  
 Primeros pasos para dar estilo a una página con CSS.
@@ -235,7 +235,7 @@ Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estil
   | 1         | Lección 1: ¿Qué es el desarrollo web? | [CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)        |
   | 2         | Lección 2: Introducción a HTML| [CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)                                            |
   | 3         | Lección 3: Elementos HTML comunes | [CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)                                            |
-  | 4         | Lección 4: Estilo simple con CSS | [CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)       |
+  | 4         | Lección 4: Introducción a CSS y estilo simple | [CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)       |
   | 5         | Lección 5: Creación de una página web| [CodePen](https://codepen.io/editor/Matheus-Schenider/pen/01a1d6c0-19e3-7f15-ba49-f71ef174b9ab) |
 - | 6         | Lección 6: Consejos y próximos pasos | [CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)                                                                                     |
 ## 👥 Elaboración
