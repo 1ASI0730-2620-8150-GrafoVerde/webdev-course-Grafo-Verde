@@ -150,7 +150,7 @@ en un botón mientras transforma una página sencilla sin tocar su HTML.
 - `text-decoration`.
 
 **Video:**  
-[Ver Lección 4 en YouTube](https://youtu.be/8rKR8fM-VU4)
+[Ver Lección 4 en YouTube](https://www.youtube.com/watch?v=6yxLbDr2KYE)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)
