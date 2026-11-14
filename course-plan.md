@@ -121,15 +121,17 @@ y enlaces mientras construye una página de ejemplo.
 **Consejo clave:**  
 Cada elemento cumple una función: un encabezado se elige por su lugar en el contenido, no por su tamaño.
 
-### Lección 4: Estilo simple con CSS
+### Lección 4: Introducción a CSS y estilo simple
 
 **Descripción:**  
 Primeros pasos para dar estilo a una página con CSS.
-El estudiante aprenderá a cambiar colores, agregar bordes, centrar contenido
-y convertir un enlace en un botón mientras transforma una página sencilla.
+El estudiante aprenderá a elegir qué elemento quiere cambiar con un selector de etiqueta
+o de clase, y a cambiar colores, agregar bordes, centrar contenido y convertir un enlace
+en un botón mientras transforma una página sencilla sin tocar su HTML.
 
 **Objetivos de aprendizaje:**
 
+- Seleccionar elementos por su etiqueta (`body`, `h1`, `p`, `a`) y por su clase (`.card`).
 - Cambiar el color de fondo de una página.
 - Cambiar el color del texto.
 - Centrar contenido utilizando CSS sencillo.
@@ -139,14 +141,16 @@ y convertir un enlace en un botón mientras transforma una página sencilla.
 
 **Conceptos clave:**
 
+- Selectores de etiqueta y selectores de clase.
 - `background-color` y `color`.
 - `padding`.
 - `border` y `border-radius`.
 - `max-width` y `margin`.
 - `text-align`.
+- `text-decoration`.
 
 **Video:**  
-[Ver Lección 4 en YouTube](https://youtu.be/8rKR8fM-VU4)
+[Ver Lección 4 en YouTube](https://www.youtube.com/watch?v=6yxLbDr2KYE)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)
@@ -158,6 +162,19 @@ y convertir un enlace en un botón mientras transforma una página sencilla.
 
 **Consejo clave:**  
 `margin: auto` centra la tarjeta y `text-align: center` centra el contenido que está dentro de ella.
+
+**Si un estilo no aparece, revisa:**
+
+- Que el selector coincida con la etiqueta o la clase del HTML.
+- Que el nombre de la clase lleve un punto en el CSS (`.card`), pero no en el HTML (`class="card"`).
+- Que la propiedad esté bien escrita (`color`, no `colour`).
+- Que cada propiedad termine en `;` y cada regla tenga sus llaves `{ }`.
+- Que los valores lleven unidad cuando la necesitan (`16px`, no `16`).
+
+**Para seguir aprendiendo:**
+
+- [Guía de CSS en MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS)
+- [Validador de CSS del W3C](https://jigsaw.w3.org/css-validator/)
 
 ### Lección 5: Creación de una página web
 
@@ -235,7 +252,7 @@ Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estil
   | 1         | Lección 1: ¿Qué es el desarrollo web? | [CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)        |
   | 2         | Lección 2: Introducción a HTML| [CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)                                            |
   | 3         | Lección 3: Elementos HTML comunes | [CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)                                            |
-  | 4         | Lección 4: Estilo simple con CSS | [CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)       |
+  | 4         | Lección 4: Introducción a CSS y estilo simple | [CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)       |
   | 5         | Lección 5: Creación de una página web| [CodePen](https://codepen.io/editor/Matheus-Schenider/pen/01a1d6c0-19e3-7f15-ba49-f71ef174b9ab) |
 - | 6         | Lección 6: Consejos y próximos pasos | [CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)                                                                                     |
 ## 👥 Elaboración
