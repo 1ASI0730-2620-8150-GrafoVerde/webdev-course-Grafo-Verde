@@ -125,11 +125,13 @@ Cada elemento cumple una función: un encabezado se elige por su lugar en el con
 
 **Descripción:**  
 Primeros pasos para dar estilo a una página con CSS.
-El estudiante aprenderá a cambiar colores, agregar bordes, centrar contenido
-y convertir un enlace en un botón mientras transforma una página sencilla.
+El estudiante aprenderá a elegir qué elemento quiere cambiar con un selector de etiqueta
+o de clase, y a cambiar colores, agregar bordes, centrar contenido y convertir un enlace
+en un botón mientras transforma una página sencilla sin tocar su HTML.
 
 **Objetivos de aprendizaje:**
 
+- Seleccionar elementos por su etiqueta (`body`, `h1`, `p`, `a`) y por su clase (`.card`).
 - Cambiar el color de fondo de una página.
 - Cambiar el color del texto.
 - Centrar contenido utilizando CSS sencillo.
@@ -139,11 +141,13 @@ y convertir un enlace en un botón mientras transforma una página sencilla.
 
 **Conceptos clave:**
 
+- Selectores de etiqueta y selectores de clase.
 - `background-color` y `color`.
 - `padding`.
 - `border` y `border-radius`.
 - `max-width` y `margin`.
 - `text-align`.
+- `text-decoration`.
 
 **Video:**  
 [Ver Lección 4 en YouTube](https://youtu.be/8rKR8fM-VU4)
