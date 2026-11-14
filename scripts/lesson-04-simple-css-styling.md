@@ -339,9 +339,14 @@ En la siguiente lección continuaremos utilizando HTML y CSS para seguir constru
 - CodePen.
 - HTML.
 - CSS.
+- [Práctica en CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175) (no hace falta crear una cuenta).
+- [Guía de CSS en MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS).
+- [Validador de CSS del W3C](https://jigsaw.w3.org/css-validator/).
 
 ## Conceptos clave
 
+- Selector de etiqueta (`body`, `h1`, `p`, `a`).
+- Selector de clase (`.card`).
 - background-color.
 - color.
 - padding.
@@ -350,6 +355,15 @@ En la siguiente lección continuaremos utilizando HTML y CSS para seguir constru
 - max-width.
 - margin.
 - text-align.
+- text-decoration.
+
+## Si un estilo no aparece
+
+- ¿El selector coincide con la etiqueta o la clase del HTML?
+- ¿Pusiste el punto antes del nombre de la clase en el CSS (`.card`), pero no en el HTML (`class="card"`)?
+- ¿Escribiste bien la propiedad? (`color`, no `colour`)
+- ¿Cada propiedad termina con `;` y cada regla tiene sus llaves `{ }`?
+- ¿Los valores tienen unidad cuando la necesitan? (`16px`, no `16`)
 
 ## Mensaje principal de la lección
 
