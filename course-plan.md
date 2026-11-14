@@ -212,35 +212,44 @@ Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estil
 
 ### Lección 6: Consejos y próximos pasos
 
-**Descripción**: Errores comunes, buenas prácticas y recursos para seguir aprendiendo.
+**Descripción:**  
+Consejos para escribir código ordenado, errores comunes de principiantes y dónde seguir aprendiendo.
+El estudiante se convertirá en detective de errores: encontrará y corregirá cinco errores
+en una página rota y aprenderá una lista de revisión para cuando algo no funcione.
+
+**Objetivos de aprendizaje:**
+
+- Ordenar el código con indentación y comentarios.
+- Elegir nombres de clases claros.
+- Encontrar y corregir los errores más comunes de HTML y CSS.
+- Seguir una lista de revisión cuando algo no funciona.
+- Guardar y compartir el trabajo en CodePen.
+- Conocer sitios gratuitos para seguir aprendiendo.
+
+**Conceptos clave:**
+
+- Indentación.
+- Comentarios en HTML y CSS.
+- Nombres de clases.
+- Etiquetas sin cerrar.
+- Atributos y propiedades mal escritos.
+- Selector de clase con punto.
+- Punto y coma en CSS.
 
 **Video:**  
-  [Ver Lección 6 en YouTube]()
+[Ver Lección 6 en YouTube](https://youtu.be/WDHRBpjKOMY)
 
 **Práctica:**  
-  [Abrir ejemplo en CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)
+[Abrir la página con errores en CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100) 👈 ¡No necesitas registrarte!  
+[Ver la página corregida](https://codepen.io/Joaquin-Cuba/pen/ZYePMVB?editors=1100)
 
 **Código fuente:**
 
-- [Starter Files](starter-files/lesson-05)
+- [Starter Files](starter-files/lesson-06)
+- [Completed Example](completed-examples/lesson-06)
 
-- [Completed Example](completed-examples/lesson-05)
-
-📚 Para seguir aprendiendo (gratis):
-- MDN Web Docs en español: https://developer.mozilla.org/es/
-
-- Validador de HTML del W3C: https://validator.w3.org/
-
-- CodePen: https://codepen.io/
-
-✅ Lista de revisión cuando algo no funciona:
-1. ¿Qué fue lo último que cambié? (Ctrl/Cmd + Z para deshacer)
-2. ¿Cerré todas las etiquetas?
-3. ¿Escribí bien los atributos y las propiedades?
-4. ¿Puse el punto antes del nombre de la clase?
-5. ¿Cada propiedad termina con ; y cada regla con } ?
-**Conclusiones clave**: Escribe un codigo ordenado, deja notas con comentarios, usar nombres claros y el habito de cazar errores.
-
+**Consejo clave:**  
+Si algo no funciona, revisa lo último que cambiaste: casi siempre el error está ahí.
 
 ## Recursos adicionales
 
@@ -254,7 +263,7 @@ Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estil
   | 3         | Lección 3: Elementos HTML comunes | [CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)                                            |
   | 4         | Lección 4: Introducción a CSS y estilo simple | [CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)       |
   | 5         | Lección 5: Creación de una página web| [CodePen](https://codepen.io/editor/Matheus-Schenider/pen/01a1d6c0-19e3-7f15-ba49-f71ef174b9ab) |
-- | 6         | Lección 6: Consejos y próximos pasos | [CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)                                                                                     |
+  | 6         | Lección 6: Consejos y próximos pasos | [CodePen](https://codepen.io/Joaquin-Cuba/pen/GgWeXwz?editors=1100)                                                                                     |
 ## 👥 Elaboración
 
 **Universidad Peruana de Ciencias Aplicadas**  
