@@ -161,7 +161,37 @@ y convertir un enlace en un botón mientras transforma una página sencilla.
 
 ### Lección 5: Creación de una página web
 
-Responsable: [Nombre]
+**Descripción:**  
+El estudiante aplicará lo aprendido en las lecciones anteriores para crear una página web completa.
+Se utilizarán HTML y CSS para construir una página con contenido, estilo y estructura, consolidando los conocimientos adquiridos.
+Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estilos para mejorar la apariencia de la página.
+
+**Objetivos de aprendizaje:**
+
+- Crear una pagina web sobre un perfil de internet como ingeniero de software, diseñador web o desarrollador de videojuegos.
+- Agregar una estructura en lista de cartas dentro de una sección.
+- Combinar varias propiedades CSS para mejorar visualmente una página web.
+
+**Conceptos clave:**
+
+- `div` y `section`.
+- `padding`.
+- `background-color`
+- `border` y `border-radius`.
+- `max-width` y `margin`.
+- `text-align`.
+
+**Video:**  
+[Ver Lección 5 en YouTube](https://www.youtube.com/watch?v=Bnc-AdrV6Ls)
+
+**Práctica:**  
+[Abrir ejemplo en CodePen](https://codepen.io/editor/Matheus-Schenider/pen/01a1d6c0-19e3-7f15-ba49-f71ef174b9ab)
+
+**Código fuente:**
+
+- [Starter Files](starter-files/lesson-05)
+- [Completed Example](completed-examples/lesson-05)
+
 
 ### Lección 6: Consejos y próximos pasos
 
