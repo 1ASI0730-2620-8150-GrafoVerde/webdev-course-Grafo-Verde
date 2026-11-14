@@ -1,0 +1,188 @@
+/* Print styles for course-plan.pdf (Pandoc HTML rendered by WeasyPrint). */
+
+:root {
+  --green-dark: #14532d;
+  --green: #15803d;
+  --green-light: #dcfce7;
+  --green-pale: #f0fdf4;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #d1d5db;
+}
+
+@page {
+  size: A4;
+  margin: 1.8cm 2cm 1.7cm;
+
+  @top-right {
+    content: "Fundamentos de Desarrollo Web";
+    color: var(--muted);
+    font-family: "Helvetica Neue", Helvetica, "Liberation Sans", Arial, sans-serif;
+    font-size: 8.5pt;
+  }
+
+  @bottom-center {
+    content: counter(page) " / " counter(pages);
+    color: var(--muted);
+    font-family: "Helvetica Neue", Helvetica, "Liberation Sans", Arial, sans-serif;
+    font-size: 8.5pt;
+  }
+}
+
+@page :first {
+  @top-right {
+    content: none;
+  }
+}
+
+html {
+  color: var(--text);
+  font-family: "Helvetica Neue", Helvetica, "Liberation Sans", Arial, sans-serif;
+  font-size: 10pt;
+  line-height: 1.45;
+}
+
+body {
+  margin: 0;
+}
+
+/* Title */
+
+h1 {
+  margin: 0 0 1.2em;
+  padding: 1.1em 1em;
+  border-radius: 10px;
+  background: var(--green-dark);
+  color: white;
+  font-size: 24pt;
+  line-height: 1.2;
+  text-align: center;
+}
+
+/* Main sections */
+
+h2 {
+  margin: 1.6em 0 0.7em;
+  padding-bottom: 0.25em;
+  border-bottom: 2px solid var(--green);
+  color: var(--green-dark);
+  font-size: 16pt;
+  break-after: avoid;
+}
+
+/* One lesson per page */
+
+h3 {
+  break-before: page;
+  margin: 0 0 1em;
+  padding: 0.55em 0.8em;
+  border-left: 6px solid var(--green);
+  border-radius: 0 8px 8px 0;
+  background: var(--green-pale);
+  color: var(--green-dark);
+  font-size: 15pt;
+  break-after: avoid;
+}
+
+h2.new-page {
+  break-before: page;
+  margin-top: 0;
+}
+
+/* Lesson index on the first page */
+
+.lesson-index ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lesson-index li {
+  margin: 0 0 0.5em;
+  padding: 0.6em 0.9em;
+  border: 1px solid var(--green-light);
+  border-left: 6px solid var(--green);
+  border-radius: 0 8px 8px 0;
+  background: var(--green-pale);
+  font-weight: 600;
+}
+
+/* Text */
+
+p {
+  margin: 0 0 0.6em;
+  orphans: 3;
+  widows: 3;
+}
+
+strong {
+  color: var(--green-dark);
+}
+
+ul,
+ol {
+  margin: 0 0 0.9em;
+  padding-left: 1.4em;
+}
+
+li {
+  margin-bottom: 0.1em;
+}
+
+li::marker {
+  color: var(--green);
+}
+
+a {
+  color: var(--green);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+code {
+  padding: 0.05em 0.3em;
+  border-radius: 4px;
+  background: #f3f4f6;
+  color: #9d174d;
+  font-family: Menlo, "DejaVu Sans Mono", Consolas, monospace;
+  font-size: 0.9em;
+}
+
+hr {
+  margin: 2em 0 1.5em;
+  border: 0;
+  border-top: 1px solid var(--border);
+}
+
+[align="center"] {
+  color: var(--green-dark);
+  font-weight: 700;
+  text-align: center;
+}
+
+/* Tables */
+
+table {
+  width: 100%;
+  margin: 0.4em 0 1.2em;
+  border-collapse: collapse;
+  font-size: 9.5pt;
+  break-inside: avoid;
+}
+
+th,
+td {
+  padding: 0.45em 0.6em;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+thead th {
+  background: var(--green);
+  color: white;
+}
+
+tbody tr:nth-child(even) {
+  background: var(--green-pale);
+}
