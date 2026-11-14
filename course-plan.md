@@ -163,6 +163,19 @@ en un botón mientras transforma una página sencilla sin tocar su HTML.
 **Consejo clave:**  
 `margin: auto` centra la tarjeta y `text-align: center` centra el contenido que está dentro de ella.
 
+**Si un estilo no aparece, revisa:**
+
+- Que el selector coincida con la etiqueta o la clase del HTML.
+- Que el nombre de la clase lleve un punto en el CSS (`.card`), pero no en el HTML (`class="card"`).
+- Que la propiedad esté bien escrita (`color`, no `colour`).
+- Que cada propiedad termine en `;` y cada regla tenga sus llaves `{ }`.
+- Que los valores lleven unidad cuando la necesitan (`16px`, no `16`).
+
+**Para seguir aprendiendo:**
+
+- [Guía de CSS en MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS)
+- [Validador de CSS del W3C](https://jigsaw.w3.org/css-validator/)
+
 ### Lección 5: Creación de una página web
 
 **Descripción:**  
