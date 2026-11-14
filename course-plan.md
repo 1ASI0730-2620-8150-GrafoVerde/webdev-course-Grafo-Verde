@@ -34,7 +34,7 @@ del curso paso a paso y se hace una primera prueba cambiando un título y su col
 - Contenido, estructura y apariencia.
 
 **Video:**  
-[Ver Lección 1 en YouTube](https://youtu.be/09iUwG5JygU)
+[Ver Lección 1 en YouTube](https://youtu.be/7HZysdh9k04)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)
