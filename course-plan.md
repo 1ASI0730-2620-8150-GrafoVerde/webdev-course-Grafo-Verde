@@ -253,9 +253,9 @@ Si algo no funciona, revisa lo último que cambiaste: casi siempre el error est�
 
 ## Recursos adicionales
 
-- **Código Fuente Completo**: [Repositorio de GitHub] (https://github.com/1ASI0730-2620-8150-GrafoVerde/webdev-course-Grafo-Verde.git)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-8150-GrafoVerde/webdev-course-Grafo-Verde)
 - **Todas las Actividades Prácticas**:
-- 
+
   | Lección # | Actividad | Empezar a Programar                                                                             |
   |-----------|----------|-------------------------------------------------------------------------------------------------|
   | 1         | Lección 1: ¿Qué es el desarrollo web? | [CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)        |
