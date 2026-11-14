@@ -34,7 +34,7 @@ del curso paso a paso y se hace una primera prueba cambiando un título y su col
 - Contenido, estructura y apariencia.
 
 **Video:**  
-[Ver Lección 1 en YouTube](https://youtu.be/09iUwG5JygU)
+[Ver Lección 1 en YouTube](https://youtu.be/7HZysdh9k04)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/YopoFlores/pen/01a1ae14-0f31-716e-a967-16fa270e485d)
@@ -71,7 +71,7 @@ y construirá la estructura básica de una página.
 - Indentación.
 
 **Video:**  
-[Ver Lección 2 en YouTube](https://youtu.be/_V6dCxTIdBA)
+[Ver Lección 2 en YouTube](https://youtu.be/gkgVkcaCWII)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/qErLyzV)
@@ -108,7 +108,7 @@ y enlaces mientras construye una página de ejemplo.
 - Enlaces.
 
 **Video:**  
-[Ver Lección 3 en YouTube](https://youtu.be/FOuquPpwmRQ)
+[Ver Lección 3 en YouTube](https://youtu.be/nFK3d8pUpFE)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/JhosBy2005/pen/vExvaqa)
@@ -150,7 +150,7 @@ en un botón mientras transforma una página sencilla sin tocar su HTML.
 - `text-decoration`.
 
 **Video:**  
-[Ver Lección 4 en YouTube](https://www.youtube.com/watch?v=6yxLbDr2KYE)
+[Ver Lección 4 en YouTube](https://youtu.be/6yxLbDr2KYE)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/darnell1910/pen/01a1b389-0aba-7fd8-9bbb-a0085db45175)
@@ -199,7 +199,7 @@ Agregaremos un encabezado, párrafos, secciones y divisiones y aplicaremos estil
 - `text-align`.
 
 **Video:**  
-[Ver Lección 5 en YouTube](https://www.youtube.com/watch?v=Bnc-AdrV6Ls)
+[Ver Lección 5 en YouTube](https://youtu.be/WemJalM4Mt4)
 
 **Práctica:**  
 [Abrir ejemplo en CodePen](https://codepen.io/editor/Matheus-Schenider/pen/01a1d6c0-19e3-7f15-ba49-f71ef174b9ab)
