@@ -1,8 +1,9 @@
-# Lección 4: Estilo simple con CSS
+# Lección 4: Introducción a CSS y estilo simple
 
 ## Información
 
-- **Duración estimada:** 7 minutos
+- **Duración del video:** 6:59
+- **Video:** [Ver Lección 4 en YouTube](https://www.youtube.com/watch?v=6yxLbDr2KYE)
 - **Público objetivo:** Estudiantes de 12 a 17 años
 - **Nivel:** Principiante
 - **Prerrequisitos:** Lección 3
@@ -12,6 +13,7 @@
 
 Al finalizar esta lección, el estudiante podrá:
 
+- Seleccionar elementos por su etiqueta (`body`, `h1`, `p`, `a`) y por su clase (`.card`).
 - Cambiar el color de fondo de una página.
 - Cambiar el color del texto.
 - Centrar contenido utilizando CSS sencillo.
